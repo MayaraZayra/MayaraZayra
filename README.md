@@ -19,3 +19,21 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
  sou **life long learning** e venho aprimorando minha carreira na área de dados no **CSC (Centro de Serviços Compartilhados)** da ![RD Saúde](https://img.shields.io/badge/-RD%20Saúde-00B388?style=flat-square&logo=medtronic&logoColor=white) desde 2020.
 
 
+## Principais Projetos
+
+📊 **PROJETO DE DASHBOARDS COM POWER BI & SERVICENOW**
+
+Elaborei uma arquitetura de dados automatizada conectando ServiceNow, Power Automate e SharePoint, com atualização incremental e base centralizada para análise gerencial e executiva.
+
+A estrutura abastece 5 iniciativas principais:
+
+📈 **1 – Painel de Indicadores de Desempenho:** Dashboard com 2 anos de histórico de atendimento, oom visões específicas para áreas fora da diretoria do Centro RD como Engenharia e Logística por exemplo, com foco em metas, SLAs e governança de indicadores. Atende demandas de dados personalizadas de diferentes áreas da RD Saúde (E contempla a base de todas as áreas que usam o Service Now)
+
+📺 **2 – Gestão à Vista em TVs:** Criação de 11 dashboards dinâmicos exibidos em monitores internos, com dados em tempo real dos últimos 10 dias e mês corrente, apoiando a gestão tática de coordenadores e gerentes com informação visual clara e objetiva.
+
+📚 **3 – Histórico Consolidado de Atendimento:** Painel com 4 anos de dados, desenvolvido para apoiar **decisões estratégicas da alta gestão** e fornecer insumos analíticos para o time de **melhoria contínua** — incluindo produtividade, volumetria e tempo médio de atendimento.
+
+**4 - Painel detalhamento Pesquisa de Sastifação:** Dashboard com **RLS** trazendo os comentários das avalições, e indicadores detalhados sobre o NPS.
+
+**5 - Logs Grupos** - Neste painel é possível ver o histórico do chamado em relação aos grupos de atendimento que o mesmo passou até ser encerrado pelo solicitante, esse painel possíbilidade na identificação de erros de processos; estrutura de processos e papeis e responsabilidades entre as áreas.
+
