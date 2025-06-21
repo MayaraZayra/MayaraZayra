@@ -29,6 +29,14 @@ A estrutura abastece 5 iniciativas principais:
 
 📈 **1 – Painel de Indicadores de Desempenho:** Dashboard com 2 anos de histórico de atendimento, oom visões específicas para áreas fora da diretoria do Centro RD como Engenharia e Logística por exemplo, com foco em metas, SLAs e governança de indicadores. Atende demandas de dados personalizadas de diferentes áreas da RD Saúde (E contempla a base de todas as áreas que usam o Service Now)
 
+![image](https://github.com/user-attachments/assets/8f8fea96-ddc3-4eca-856c-2f4df1779e96)
+
+Há também uma assinatura, enviando por e-mail uma one page com resumo dos principais indidcadores de desempenho da diretoria para os líderes.
+
+![image](https://github.com/user-attachments/assets/6bee42be-80fb-429b-a477-236f18873821)
+
+
+
 📺 **2 – Gestão à Vista em TVs:** Criação de 11 dashboards dinâmicos exibidos em monitores internos, com dados em tempo real dos últimos 10 dias e mês corrente, apoiando a gestão tática de coordenadores e gerentes com informação visual clara e objetiva.
 
 📚 **3 – Histórico Consolidado de Atendimento:** Painel com 4 anos de dados, desenvolvido para apoiar **decisões estratégicas da alta gestão** e fornecer insumos analíticos para o time de **melhoria contínua** — incluindo produtividade, volumetria e tempo médio de atendimento.
