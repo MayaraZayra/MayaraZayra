@@ -1,7 +1,7 @@
 **MAYARA RODRIGUES | (BI) BUSSINESS INTELIGENCE - DESNVOLVIMENTO E ANÁLISE DE DADOS**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-[![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?style=flat-square&logo=microsoftpowerautomate&logoColor=white)](https://learn.microsoft.com/power-automate/)
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://learn.microsoft.com/power-automate/)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
