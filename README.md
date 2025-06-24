@@ -37,7 +37,10 @@ Há também uma assinatura, enviando por e-mail uma one page com resumo dos prin
 
 
 
-📺 **2 – Gestão à Vista em TVs:** Criação de 11 dashboards dinâmicos exibidos em monitores internos, com dados em tempo real dos últimos 10 dias e mês corrente, apoiando a gestão tática de coordenadores e gerentes com informação visual clara e objetiva.
+📺 **2 – Gestão à Vista em TVs:** Criação de 9 dashboards dinâmicos (com um único modelo semântico) exibidos em monitores internos, com dados em tempo real dos últimos 10 dias e mês corrente, apoiando a gestão tática de coordenadores e gerentes com informação visual clara e objetiva.
+
+![image](https://github.com/user-attachments/assets/21b9dc0d-3747-4578-8d54-c67a1bc3c85f)
+
 
 📚 **3 – Histórico Consolidado de Atendimento:** Painel com 4 anos de dados, desenvolvido para apoiar **decisões estratégicas da alta gestão** e fornecer insumos analíticos para o time de **melhoria contínua** — incluindo produtividade, volumetria e tempo médio de atendimento.
 
