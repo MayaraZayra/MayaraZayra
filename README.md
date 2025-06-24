@@ -40,7 +40,7 @@ Há também uma assinatura, enviando por e-mail uma one page com resumo dos prin
 📺 **2 – Gestão à Vista em TVs:** Criação de 9 dashboards dinâmicos (com um único modelo semântico) exibidos em monitores internos, com dados em tempo real dos últimos 10 dias e mês corrente, apoiando a gestão tática de coordenadores e gerentes com informação visual clara e objetiva.
 
 Valores das metas não dilvulgadados:
-![image](https://github.com/user-attachments/assets/6a8ef5ef-e824-40ed-84de-e56087ec2ac7)
+![Imagem2](https://github.com/user-attachments/assets/43262266-d824-4030-a56c-55d5255e993f)
 
 
 ![image](https://github.com/user-attachments/assets/21b9dc0d-3747-4578-8d54-c67a1bc3c85f)
