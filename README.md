@@ -21,6 +21,10 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
 
 ## Principais Projetos
 
+📊 **PROJETO DE DASHBOARDS COM POWER BI & LOOCKER STUDIO**
+Painel com o objetivo de trazer os indicadores com o total de interações do Bot X Volumetria de chamados abertos, com a investimento no BOT nota-se a diminuição da volumetria de chamados.
+Compartilhamento do data viz - nome das categorias e volumetrias ficticios.
+
 📊 **PROJETO DE DASHBOARDS COM POWER BI & SERVICENOW**
 
 Elaborei uma arquitetura de dados automatizada conectando ServiceNow, Power Automate e SharePoint, com atualização incremental e base centralizada para análise gerencial e executiva.
