@@ -50,5 +50,10 @@ Valores das metas não dilvulgadados:
 
 **4 - Painel detalhamento Pesquisa de Sastifação:** Dashboard com **RLS** trazendo os comentários das avalições, e indicadores detalhados sobre o NPS.
 
+![image](https://github.com/user-attachments/assets/71bd71b0-0f44-4db0-a313-da0670154eab)
+![image](https://github.com/user-attachments/assets/25ce2481-6a88-476d-81e9-989d055269d0)
+Tabelas com comentários e nome do cliente/solicitante afetado não divulgados.
+
+
 **5 - Logs Grupos** - Neste painel é possível ver o histórico do chamado em relação aos grupos de atendimento que o mesmo passou até ser encerrado pelo solicitante, esse painel possíbilidade na identificação de erros de processos; estrutura de processos e papeis e responsabilidades entre as áreas.
 
