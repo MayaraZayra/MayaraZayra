@@ -30,7 +30,8 @@ Este painel analisa a eficácia do bot *Inês Informa, integrando dados do *Lock
 **Obs:** Compartilhamento do data viz - nome das categorias e volumetrias ficticios ou ocultos.
 
 One Page:
-![image](https://github.com/user-attachments/assets/0d8a9d57-1e70-4614-99e6-8285c191f742)
+
+![image](https://github.com/user-attachments/assets/0a389316-2afa-463d-91b3-b9b8e5124713)
 
 ![image](https://github.com/user-attachments/assets/a6ee47fc-a381-4bb3-8e28-399d3250ecf8)
 
