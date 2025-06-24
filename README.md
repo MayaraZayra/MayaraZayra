@@ -31,7 +31,8 @@ Este painel analisa a eficácia do bot *Inês Informa, integrando dados do *Lock
 
 One Page:
 
-![image](https://github.com/user-attachments/assets/0a389316-2afa-463d-91b3-b9b8e5124713)
+![image](https://github.com/user-attachments/assets/28b3cde7-727c-45d2-be02-0351aa696d91)
+
 
 ![image](https://github.com/user-attachments/assets/a6ee47fc-a381-4bb3-8e28-399d3250ecf8)
 
