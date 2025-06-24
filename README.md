@@ -23,7 +23,7 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
 
 📊 **DASHBOARD DE INTERAÇÕES DE BOT : POWER BI & LOOCKER STUDIO**
 
-Painel com o objetivo de trazer os indicadores com o total de interações do Bot X Volumetria de chamados abertos, com a investimento no BOT nota-se a diminuição da volumetria de chamados.
+Este painel analisa a eficácia do bot *Inês Informa, integrando dados do *Locker Studio (interações via Teams e WhatsApp) e Service Now (chamados de suporte). O objetivo é avaliar se a implementação de FAQs e autoatendimento no bot contribui para a redução de chamados, proporcionando insights sobre engajamento e eficiência no suporte automatizado. 🚀
 Compartilhamento do data viz - nome das categorias e volumetrias ficticios.
 
 📊 **PROJETO DE DASHBOARDS COM POWER BI & SERVICENOW**
