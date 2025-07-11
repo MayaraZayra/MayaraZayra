@@ -6,6 +6,8 @@
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🧠 Sobre Mim
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayara-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mayara-rodrigues-dos-santos-48a6b3a3/)
