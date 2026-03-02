@@ -22,6 +22,12 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
 
 
 ## Principais Projetos
+📊 **DASHBOARD Cronograma de obras Engenharia**
+
+Neste projeto as farmácias possuim visibilidade sobre o cronograma da engenharia.
+
+<img width="1194" height="537" alt="image" src="https://github.com/user-attachments/assets/979dbc49-705c-42b2-8ec4-f875a903a788" />
+
 
 📊 **DASHBOARD DE INTERAÇÕES DE BOT : POWER BI & LOOCKER STUDIO**
 
