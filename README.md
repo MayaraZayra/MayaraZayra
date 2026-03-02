@@ -22,7 +22,7 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
 
 
 ## Principais Projetos
-📊 **DASHBOARD Cronograma de obras Engenharia**
+📊 **DASHBOARD CRONOGRAMA DE OBRAS**
 
 Neste BI as farmácias possuim visibilidade sobre o cronograma da engenharia de acordo com cada projeto em que estão inseridas.
 
