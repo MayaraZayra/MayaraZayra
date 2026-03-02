@@ -18,10 +18,10 @@
 
 Sou Analista de BI com experiência em **modelagem de dados**, **criação de dashboards interativos** e **análise de indicadores** e **Governança da Informação** Tenho paixão por traduzir números em histórias visuais que impulsionam resultados.
 Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administração-004080?logo=graduation-cap&logoColor=white&style=flat-square)](https://www.puc-campinas.edu.br/), possuio  MBA pela [![USP ESALQ](https://img.shields.io/badge/USP--ESALQ-MBA%20em%20Gestão%20de%20Projetos-002776?logo=university&logoColor=white&style=flat-square)](https://mbauspesalq.com/) , tenho também especialização em [![Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-28a745?logo=googleanalytics&logoColor=white&style=flat-square)](https://www.asq.org/cert/six-sigma-green-belt)
- sou **life long learning** e venho aprimorando minha carreira na área de dados no **CSC (Centro de Serviços Compartilhados)** da ![RD Saúde](https://img.shields.io/badge/-RD%20Saúde-00B388?style=flat-square&logo=medtronic&logoColor=white) desde 2020; onde possuo os escopos:
+ sou **life long learning** e venho aprimorando minha carreira na área de dados no **CSC (Centro de Serviços Compartilhados)** da ![RD Saúde](https://img.shields.io/badge/-RD%20Saúde-00B388?style=flat-square&logo=medtronic&logoColor=white) desde 2020.
 
 
-**Organização e Governança de Dados: Estruturo e padronizo indicadores para que sua empresa tenha números confiáveis e fáceis de acompanhar.**
+**Organização e Governança de Dados: Estruturo e padronizo indicadores para que sua empresa tenha números confiáveis e fáceis de acompanhar; confira meu escopo de atuação hoje:**
 
 **Dashboards Estratégicos (Power BI | ServiceNow)**: Desenvolvimento de painéis com foco em performance, SLA, NPS, backlog, produtividade e eficiência operacional.
 
