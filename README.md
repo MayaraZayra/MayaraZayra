@@ -21,28 +21,21 @@ Formada em  [![PUC-Campinas](https://img.shields.io/badge/PUC--Campinas-Administ
  sou **life long learning** e venho aprimorando minha carreira na área de dados no **CSC (Centro de Serviços Compartilhados)** da ![RD Saúde](https://img.shields.io/badge/-RD%20Saúde-00B388?style=flat-square&logo=medtronic&logoColor=white) desde 2020; onde possuo os escopos:
 
 
- ▪ Governança de Dados & Indicadores
-Responsável pela estruturação, padronização e controle de métricas executivas e operacionais, garantindo integridade, rastreabilidade e confiabilidade das informações para tomada de decisão em diferentes níveis da organização.
+ ▪ **Governança de Dados & Indicadores** : Responsável pela estruturação, padronização e controle de métricas executivas e operacionais, garantindo integridade, rastreabilidade e confiabilidade das informações para tomada de decisão em diferentes níveis da organização.
 
-▪ Indicadores Corporativos de Atendimento (ServiceNow)
-Desenvolvimento e gestão de painéis estratégicos e operacionais com impacto para toda a empresa, contemplando backlog, NPS, SLA, TMR, volume de chamados e performance de filas. Atuação voltada à performance, eficiência e direcionamento gerencial.
+▪ **Indicadores Corporativos de Atendimento (ServiceNow)** : Desenvolvimento e gestão de painéis estratégicos e operacionais com impacto para toda a empresa, contemplando backlog, NPS, SLA, TMR, volume de chamados e performance de filas. Atuação voltada à performance, eficiência e direcionamento gerencial.
 
-▪ ANS (Acordo de Nível de Serviço) – Business Intelligence
-Estruturação e monitoramento do ANS como indicador estratégico de cumprimento de prazos e qualidade entre áreas, assegurando previsibilidade operacional, alinhamento de expectativas e sustentação do modelo de serviços compartilhados.
+▪ **ANS (Acordo de Nível de Serviço) – Business Intelligence**: Estruturação e monitoramento do ANS como indicador estratégico de cumprimento de prazos e qualidade entre áreas, assegurando previsibilidade operacional, alinhamento de expectativas e sustentação do modelo de serviços compartilhados.
 
-▪ War Room & Inteligência Executiva
-Atuação estratégica em ambiente de War Room, estruturando e disponibilizando informações críticas para acompanhamento de variáveis prioritárias do negócio. Elaboração de reporte executivo diário direcionado à Vice-Presidência e Presidência, além do fornecimento de bases analíticas para o time de atendimento e Melhoria Contínua, viabilizando evolução de processos e desenvolvimento de agentes de IA junto à TI.
+▪ **War Room & Inteligência Executiva** Atuação estratégica em ambiente de War Room, estruturando e disponibilizando informações críticas para acompanhamento de variáveis prioritárias do negócio. Elaboração de reporte executivo diário direcionado à Vice-Presidência e Presidência, além do fornecimento de bases analíticas para o time de atendimento e Melhoria Contínua, viabilizando evolução de processos e desenvolvimento de agentes de IA junto à TI.
 
-▪ Planejamento, Metas & Orçamento
-Participação na definição de metas corporativas (cross), condução do processo orçamentário da diretoria e acompanhamento de despesas, incluindo iniciativas de racionalização de custos e otimização de recursos.
+▪ **Planejamento, Metas & Orçamento**: Participação na definição de metas corporativas (cross), condução do processo orçamentário da diretoria e acompanhamento de despesas, incluindo iniciativas de racionalização de custos e otimização de recursos.
 
-▪ Headcount & Estrutura Organizacional
-Análise e consolidação estratégica de headcount, apoiando decisões relacionadas à capacidade operacional e alocação de recursos.
+▪ **Headcount & Estrutura Organizacional**: Análise e consolidação estratégica de headcount, apoiando decisões relacionadas à capacidade operacional e alocação de recursos.
 
  
 
-
-## Principais Projetos
+## Confira alguns dos projetos que desenvolvi no Power BI:
 📊 **DASHBOARD CRONOGRAMA DE OBRAS**
 
 Neste BI as farmácias possuim visibilidade sobre o cronograma da engenharia de acordo com cada projeto em que estão inseridas.
