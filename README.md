@@ -1,6 +1,7 @@
 **MAYARA RODRIGUES | (BI) BUSSINESS INTELIGENCE - DESNVOLVIMENTO E ANÁLISE DE DADOS**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/sql/)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)](https://learn.microsoft.com/power-automate/)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
